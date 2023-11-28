@@ -1,14 +1,16 @@
-# Weather Progressive Web Application
-![Weather Data](https://i.imgur.com/3csowzj.png)
+## Twitter to Threads Progressive Web Application
 
-### [Live Site](https://inspiring-bhaskara-d21f88.netlify.app)
+### Introduction
+This repository accompanies a video tutorial where we create a Progressive Web Application (PWA) designed to assist content creators in migrating their tweets from Twitter to threads. We employ React and service workers to achieve this.
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+By the end of the tutorial, you'll gain a deep understanding of what a PWA is and how to construct, deploy, and publish one.
 
-In this video, we will create a PWA. We're going to use React with service workers.
+### Project Description
+This project focuses on simplifying the process for content creators looking to migrate their tweets into threads. It leverages Twitter archives, analyzing the frequency of their post uploads on threads, and sends notifications accordingly. With this PWA, content creators can seamlessly manage and streamline their Twitter content for a more efficient and organized experience.
 
-By the end of this video, you will have a strong understanding of what PWA is and how you can build, deploy and publish it.
+### Setup
+To begin development, run the following commands for both the client and server sides:
+- ```npm i``` (to install dependencies)
+- ```npm start``` (to start the development server)
 
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
+Stay tuned for an enhanced Twitter-to-Threads experience!
